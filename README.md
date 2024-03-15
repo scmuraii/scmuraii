@@ -1,7 +1,7 @@
 Hi 👋 My name is Scmurai
 ========================
 
-Fullstack Jr Developer
+Full Stack Jr Developer
 ----------------------
 
 I'm a fullstack jr developer just enjoying to code. I love to just code anything.
