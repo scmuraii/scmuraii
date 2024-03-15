@@ -4,7 +4,7 @@ Hi 👋 My name is Scmurai
 Full Stack Jr Developer
 ----------------------
 
-I'm a fullstack jr developer just enjoying to code. I love to just code anything.
+I'm a full stack jr developer just enjoying to code. I love to just code anything.
 
 * 🌍  I'm based in Estonia
 * ✉️  You can contact me at [scmuraiwork@gmail.com](mailto:scmuraiwork@gmail.com)
