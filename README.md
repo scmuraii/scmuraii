@@ -1,4 +1,4 @@
-Hi 👋 My name is Scmurai
+Hi 👋 My name is Conjurs
 ========================
 
 Full Stack Jr Developer
